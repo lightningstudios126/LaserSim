@@ -4,7 +4,8 @@ From there, I added an optics system that supports reflection and refraction (us
 Additionally, there were plans to create a digital logic system, but I never got to doing that. At the moment, the player can create wires between logic-capable objects, like the laser emitter and receiver, lamps, buttons, and logic gates.
 
 ## Controls
-The player has two tools: Grab and Wire.  
+Use WASD to move, and space to jump.
+The player has access to two tools: Grab and Wire.  
 To switch tools, the player can use the Q and E buttons, or shift and scroll.
 ### Grab tool
  - Left click to grab or drop an interactable object
